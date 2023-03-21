@@ -3,8 +3,7 @@ public class FizzBuzz
     public static void main(String[] args) throws Exception 
     {
         for(int count = 1; count <= 100; count ++)
-        {
-            
+        {  
             if (count % 3 == 0) 
             {
                 if (count % 5 == 0) 
